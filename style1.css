@@ -26,6 +26,20 @@ button[data-load-more-btn], .button, button, input[type=submit], .wp-block-butto
   top:600px;
   z-index: 2;
 }
+
+@media(max-width:540px) {
+  .whatsapp{
+    width:0 !important;
+    background:#4dc247;
+    fill:white;
+    border-radius: 30px;
+    position: fixed;
+    left:150px;
+    top:600px;
+    z-index: 2;
+  }
+}
+
 button[data-load-more-btn]:before, .button:before, button:before, input[type=submit]:before, .wp-block-button__link:before, .wp-block-file__button:before, .a8c-posts-list__view-all:before, .wp-block-search .wp-block-search__button:before, body .widget_eu_cookie_law_widget #eu-cookie-law input.accept:before, button[data-load-more-btn]:after, .button:after, button:after, input[type=submit]:after, .wp-block-button__link:after, .wp-block-file__button:after, .a8c-posts-list__view-all:after, .wp-block-search .wp-block-search__button:after, body .widget_eu_cookie_law_widget #eu-cookie-law input.accept:after {
   content: '';
   display: block;
