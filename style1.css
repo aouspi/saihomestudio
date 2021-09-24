@@ -28,14 +28,14 @@ button[data-load-more-btn], .button, button, input[type=submit], .wp-block-butto
 }
 
 @media(max-width:540px) {
-  .whatsapp{
-    width:0 !important;
+    .whatsapp{
+    width:30px !important;
     background:#4dc247;
     fill:white;
-    border-radius: 30px;
+    border-radius: 15px;
     position: fixed;
-    left:150px;
-    top:600px;
+    left:50px;
+    top:400px;
     z-index: 2;
   }
 }
