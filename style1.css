@@ -35,7 +35,7 @@ button[data-load-more-btn], .button, button, input[type=submit], .wp-block-butto
     border-radius: 30px;
     position: fixed;
     left:50px;
-    top:200px;
+    top:500px;
     z-index: 2;
   }
 }
