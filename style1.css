@@ -34,8 +34,8 @@ button[data-load-more-btn], .button, button, input[type=submit], .wp-block-butto
     fill:white;
     border-radius: 30px;
     position: fixed;
-    left:50px;
-    top:500px;
+    left:25px;
+    top:600px;
     z-index: 2;
   }
 }
